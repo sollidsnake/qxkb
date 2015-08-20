@@ -1,0 +1,19 @@
+
+---
+
+The keypad switch written on Qt4.
+
+---
+
+qxkb - the further development of the project axkb. In connection with project closure antico, it has been decided to rename the project and to develop separately as separate application. Outwardly repeats kxkb.
+
+---
+
+The short description
+  * Uses setxkbmap
+  * The interface repeats kxkb
+  * Can use svg icon for indicate language layer
+
+**We migrate on GitHub**
+
+Git Repo https://github.com/disels/qxkb
